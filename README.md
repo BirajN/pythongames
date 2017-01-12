@@ -1,2 +1,2 @@
 # pythongames
-Game build on codeskulptor
+Game built on codeskulptor
